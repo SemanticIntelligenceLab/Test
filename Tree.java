@@ -8,5 +8,6 @@ public class Tree(
 		tree.show("we are boy!");
 		//´íµÄ
 		we are Chinese!
+		wocuole
 	}
 )
