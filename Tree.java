@@ -6,5 +6,6 @@ public class Tree(
 	public static void main(String[] args){
 		Tree tree = new Tree();
 		tree.show("we are boy!");
+		//´íµÄ
 	}
 )
