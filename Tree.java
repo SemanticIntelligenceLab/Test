@@ -8,5 +8,6 @@
 		tree.show("we are boy!");
 		//´íµÄ
 		we are Chinese!
+		是谁导引这场戏！
 	}
 )
