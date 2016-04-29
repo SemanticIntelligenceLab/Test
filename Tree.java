@@ -1,4 +1,4 @@
-public class Tree(
+ï»¿public class Tree(
 	
 	public static void show(String tree){
 		System.out.pritln("this is a tree!");
@@ -6,8 +6,7 @@ public class Tree(
 	public static void main(String[] args){
 		Tree tree = new Tree();
 		tree.show("we are boy!");
-		//´íµÄ
+		//Â´Ã­ÂµÃ„
 		we are Chinese!
-		wocuole
 	}
 )
